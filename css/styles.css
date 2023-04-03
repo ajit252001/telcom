@@ -17,7 +17,7 @@ p {
 .big-heading {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 .section-heading {
@@ -79,17 +79,19 @@ p {
 }
 
 #title .container-fluid {
-  padding: 1% 12% 7%;
+  padding: 0% 12% 7%;
 }
 
 /* title paragraph */
 .title-para{
   color: aqua;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
+padding-top: 4%;
 }
 
 .big-heading{
   font-size: 3rem;
+  padding-top: 4%;
 }
 /* Title Image */
 
@@ -99,6 +101,7 @@ p {
   position: absolute;
   right: 6%;
   top: 4%;
+  padding-top: 4%;
 }
 
 /* Features Section */
