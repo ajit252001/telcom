@@ -44,9 +44,7 @@ p {
 
 /* Navigation Bar */
 
-.navbar {
-  
-}
+
 
 .navbar-brand {
   font-family: "Ubuntu";
@@ -125,18 +123,13 @@ padding-top: 4%;
 }
 
 
-
-/* Testimonial Section */
-
-
-
-/* Pricing Section */
+/* why choose section */
 
 #choose {
   padding: 100px;
 }
 
-.price-text {
+.choose-text {
   font-size: 1rem;
   line-height: 1.5;
   color:black;
@@ -167,9 +160,7 @@ background-color:#D2D79F;
     background-color:#E0D98C;
     }
 /* CTA Section */
-.free{
-  background-image:url("images/crousel1.jpg");
-}
+
 
 /* Footer Section */
 #footer{
